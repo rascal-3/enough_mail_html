@@ -12,7 +12,7 @@ dependencies:
   enough_mail:
     git:
       url: https://github.com/rascal-3/enough_mail.git
-      ref: main
+      ref: HEAD
   html: ^0.15.0
   image: ^4.0.13
 
